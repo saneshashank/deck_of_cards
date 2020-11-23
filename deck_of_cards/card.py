@@ -8,6 +8,7 @@ __all__ = ['Card', 'Deck', 'Hand', 'find_defining_class']
 
 # Cell
 
+# added class
 
 """This module contains a code example related to
 Think Python, 2nd Edition
